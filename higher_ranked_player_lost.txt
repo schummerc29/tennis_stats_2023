@@ -1,0 +1,812 @@
+winner_name|loser_name
+Matteo Berrettini|Hubert Hurkacz
+Cameron Norrie|Taylor Fritz
+Stefanos Sakellaridis|Zizou Bergs
+Dimitar Kuzmanov|Zizou Bergs
+Stan Wawrinka|Alexander Bublik
+Jiri Lehecka|Alexander Zverev
+Alex De Minaur|Rafael Nadal
+Jason Kubler|Albert Ramos
+Cameron Norrie|Rafael Nadal
+Jason Kubler|Daniel Evans
+Matteo Berrettini|Casper Ruud
+Borna Gojo|Adrian Mannarino
+Arthur Rinderknech|Francisco Cerundolo
+Borna Gojo|Federico Coria
+Sebastian Korda|Jannik Sinner
+Sebastian Korda|Roberto Bautista Agut
+Alexei Popyrin|Marcos Giron
+Roman Safiullin|Mikael Ymer
+Thanasi Kokkinakis|Maxime Cressy
+Roberto Bautista Agut|Andrey Rublev
+Yoshihito Nishioka|Holger Rune
+Alexei Popyrin|Felix Auger Aliassime
+Tallon Griekspoor|Benjamin Bonzi
+Tallon Griekspoor|Aslan Karatsev
+Benjamin Bonzi|Botic Van De Zandschulp
+Tallon Griekspoor|Marin Cilic
+Benjamin Bonzi|Filip Krajinovic
+Pedro Martinez|Sebastian Baez
+Benjamin Bonzi|Emil Ruusuvuori
+Maximilian Marterer|Laslo Djere
+Roberto Carballes Baena|Bernabe Zapata Miralles
+Marco Cecchinato|Nikoloz Basilashvili
+Tallon Griekspoor|Jaume Munar
+Tim Van Rijthoven|Radu Albot
+Laslo Djere|Alex Molcan
+Maximilian Marterer|Elias Ymer
+Richard Gasquet|Cameron Norrie
+Richard Gasquet|Constant Lestienne
+Richard Gasquet|David Goffin
+Laslo Djere|Casper Ruud
+Jenson Brooksby|Diego Schwartzman
+Laslo Djere|Jaume Munar
+Constant Lestienne|Pedro Cachin
+Gregoire Barrere|John Isner
+Christopher Eubanks|Ugo Humbert
+David Goffin|Alexander Bublik
+Ben Shelton|Sebastian Baez
+Quentin Halys|Alex Molcan
+J J Wolf|Adrian Mannarino
+Jiri Lehecka|Thiago Monteiro
+Soon Woo Kwon|Roberto Bautista Agut
+Soon Woo Kwon|Jack Draper
+Thanasi Kokkinakis|Miomir Kecmanovic
+Jack Draper|Karen Khachanov
+Soon Woo Kwon|Mikael Ymer
+Thanasi Kokkinakis|Andrey Rublev
+Jack Draper|Tommy Paul
+Mikael Ymer|Mackenzie Mcdonald
+Soon Woo Kwon|Pablo Carreno Busta
+Jason Kubler|Tomas Martin Etcheverry
+Robin Haase|Benjamin Bonzi
+John Millman|Albert Ramos
+Marc Andrea Huesler|Arthur Rinderknech
+Mackenzie Mcdonald|Daniel Evans
+Mikael Ymer|Emil Ruusuvuori
+Mackenzie Mcdonald|Brandon Nakashima
+Dalibor Svrcina|Jaume Munar
+Jason Kubler|Sebastian Baez
+Juncheng Shang|Oscar Otte
+Yosuke Watanuki|Arthur Rinderknech
+John Millman|Marc Andrea Huesler
+Rinky Hijikata|Yannick Hanfmann
+Lloyd Harris|Lorenzo Musetti
+Marton Fucsovics|Federico Coria
+Christopher Eubanks|Soon Woo Kwon
+Jiri Lehecka|Borna Coric
+Denis Kudla|Roman Safiullin
+Ugo Humbert|Richard Gasquet
+Maxime Cressy|Albert Ramos
+Adrian Mannarino|John Isner
+Enzo Couacaud|Hugo Dellien
+Nicolas Jarry|Miomir Kecmanovic
+Andy Murray|Matteo Berrettini
+Thanasi Kokkinakis|Fabio Fognini
+Brandon Holt|Aleksandar Vukic
+Mackenzie Mcdonald|Rafael Nadal
+Tallon Griekspoor|Botic Van De Zandschulp
+Benjamin Bonzi|Pablo Carreno Busta
+Alexei Popyrin|Taylor Fritz
+J J Wolf|Diego Schwartzman
+Michael Mmoh|Alexander Zverev
+Tommy Paul|Alejandro Davidovich Fokina
+Jenson Brooksby|Casper Ruud
+Karen Khachanov|Frances Tiafoe
+Sebastian Korda|Daniil Medvedev
+Jiri Lehecka|Cameron Norrie
+Sebastian Korda|Hubert Hurkacz
+Jiri Lehecka|Felix Auger Aliassime
+Ben Shelton|J J Wolf
+Tommy Paul|Roberto Bautista Agut
+Novak Djokovic|Stefanos Tsitsipas
+Federico Coria|Albert Ramos
+Hugo Dellien|Juan Manuel Cerundolo
+Federico Coria|Francisco Cerundolo
+Juan Manuel Cerundolo|Diego Schwartzman
+Tomas Barrios Vera|Bernabe Zapata Miralles
+Joao Sousa|Cristian Garin
+Guido Pella|Andrea Vavassori
+Hugo Dellien|Pedro Cachin
+Luciano Darderi|Hugo Gaston
+Tomas Barrios Vera|Daniel Elahi Galan
+Cristian Garin|Pedro Martinez
+Joao Sousa|Tomas Martin Etcheverry
+Marco Cecchinato|Facundo Bagnis
+Yibing Wu|John Isner
+Yibing Wu|Taylor Fritz
+Yibing Wu|Adrian Mannarino
+J J Wolf|Frances Tiafoe
+Yibing Wu|Denis Shapovalov
+Emilio Gomez|Miomir Kecmanovic
+Jack Sock|Ilya Ivashka
+Yibing Wu|Michael Mmoh
+Maxime Cressy|Holger Rune
+Maxime Cressy|Borna Coric
+Arthur Fils|Quentin Halys
+Quentin Halys|Alejandro Davidovich Fokina
+Arthur Fils|Roberto Bautista Agut
+Nikoloz Basilashvili|Constant Lestienne
+Gregoire Barrere|Alexander Bublik
+Arthur Fils|Richard Gasquet
+Lorenzo Sonego|Benjamin Bonzi
+Radu Albot|Tommy Paul
+Adrian Mannarino|J J Wolf
+Michael Mmoh|Denis Shapovalov
+Mackenzie Mcdonald|Yoshihito Nishioka
+Marcos Giron|Ben Shelton
+Matija Pecotic|Jack Sock
+Aleksandar Vukic|Christopher Eubanks
+Denis Kudla|Jordan Thompson
+Bernabe Zapata Miralles|Francisco Cerundolo
+Juan Pablo Varillas|Lorenzo Musetti
+Bernabe Zapata Miralles|Diego Schwartzman
+Juan Pablo Varillas|Dominic Thiem
+Tomas Martin Etcheverry|Roberto Carballes Baena
+Camilo Ugo Carabelli|Daniel Elahi Galan
+Dusan Lajovic|Sebastian Baez
+Bernabe Zapata Miralles|Pedro Martinez
+Dominic Thiem|Alex Molcan
+Roberto Carballes Baena|Albert Ramos
+Facundo Diaz Acosta|Federico Coria
+Daniil Medvedev|Felix Auger Aliassime
+Grigor Dimitrov|Alex De Minaur
+Jannik Sinner|Stefanos Tsitsipas
+Stan Wawrinka|Richard Gasquet
+Gijs Brouwer|Holger Rune
+Tallon Griekspoor|Alexander Zverev
+Grigor Dimitrov|Hubert Hurkacz
+Stan Wawrinka|Alexander Bublik
+Richard Gasquet|Pablo Carreno Busta
+Gijs Brouwer|Marc Andrea Huesler
+Gregoire Barrere|David Goffin
+Alex De Minaur|Andrey Rublev
+Andy Murray|Jiri Lehecka
+Jiri Lehecka|Andrey Rublev
+Jiri Lehecka|Emil Ruusuvuori
+Andy Murray|Alexander Zverev
+Alexandre Muller|Botic Van De Zandschulp
+Christopher Oconnell|Roberto Bautista Agut
+Emil Ruusuvuori|Daniel Evans
+Alexandre Muller|Nikoloz Basilashvili
+Cameron Norrie|Carlos Alcaraz
+Nicolas Jarry|Sebastian Baez
+Bernabe Zapata Miralles|Albert Ramos
+Dusan Lajovic|Laslo Djere
+Nicolas Jarry|Pedro Martinez
+Bernabe Zapata Miralles|Francisco Cerundolo
+Hugo Dellien|Alex Molcan
+Dusan Lajovic|Diego Schwartzman
+Nicolas Jarry|Lorenzo Musetti
+Daniel Elahi Galan|Pedro Cachin
+Alexander Bublik|Grigor Dimitrov
+Benjamin Bonzi|Alex De Minaur
+Arthur Fils|Stan Wawrinka
+Mikael Ymer|David Goffin
+Benjamin Bonzi|Maxime Cressy
+Stan Wawrinka|Richard Gasquet
+Arthur Fils|Jannik Sinner
+Leandro Riedi|Arthur Rinderknech
+Gregoire Barrere|Marc Andrea Huesler
+Arthur Fils|Roman Safiullin
+Tommy Paul|Taylor Fritz
+Alex De Minaur|Holger Rune
+Mackenzie Mcdonald|Brandon Nakashima
+Taro Daniel|Casper Ruud
+Michael Mmoh|Marcos Giron
+Feliciano Lopez|Christopher Eubanks
+Elias Ymer|Adrian Mannarino
+Jacopo Berrettini|Oscar Otte
+Taro Daniel|J J Wolf
+Daniil Medvedev|Andrey Rublev
+Daniil Medvedev|Novak Djokovic
+Lorenzo Sonego|Felix Auger Aliassime
+Pavel Kotov|Alexei Popyrin
+Thanasi Kokkinakis|Quentin Halys
+Christopher Oconnell|Emil Ruusuvuori
+Lorenzo Sonego|Marc Andrea Huesler
+Botic Van De Zandschulp|Karen Khachanov
+Nicolas Jarry|Tomas Martin Etcheverry
+Nicolas Jarry|Jaume Munar
+Tomas Martin Etcheverry|Sebastian Baez
+Tomas Martin Etcheverry|Dusan Lajovic
+Jaume Munar|Lorenzo Musetti
+Nicolas Jarry|Diego Schwartzman
+Yannick Hanfmann|Roberto Carballes Baena
+Tomas Martin Etcheverry|Francisco Cerundolo
+Thiago Monteiro|Albert Ramos
+Nicolas Jarry|Juan Pablo Varillas
+Yannick Hanfmann|Pedro Martinez
+Riccardo Bonadio|Daniel Elahi Galan
+Cristian Garin|Dominic Thiem
+Juan Manuel Cerundolo|Pedro Cachin
+Jannik Sinner|Taylor Fritz
+Frances Tiafoe|Cameron Norrie
+Cameron Norrie|Andrey Rublev
+Jack Draper|Andy Murray
+Tommy Paul|Hubert Hurkacz
+Marton Fucsovics|Alex Molcan
+Stan Wawrinka|Holger Rune
+Alejandro Davidovich Fokina|Karen Khachanov
+Cristian Garin|Casper Ruud
+Alejandro Tabilo|Jordan Thompson
+Jack Draper|Daniel Evans
+Alex Molcan|Borna Coric
+Marton Fucsovics|Alex De Minaur
+Adrian Mannarino|Lorenzo Musetti
+Stan Wawrinka|Miomir Kecmanovic
+Ilya Ivashka|Botic Van De Zandschulp
+Emil Ruusuvuori|Roberto Bautista Agut
+Cristian Garin|Yoshihito Nishioka
+Ugo Humbert|Denis Shapovalov
+Taro Daniel|Matteo Berrettini
+Jason Kubler|Grigor Dimitrov
+Alejandro Tabilo|Maxime Cressy
+Jordan Thompson|Stefanos Tsitsipas
+Guido Pella|Thiago Monteiro
+Alexei Popyrin|Zhizhen Zhang
+Jan Lennard Struff|Quentin Halys
+Jack Sock|Gregoire Barrere
+Pedro Martinez|Marc Andrea Huesler
+Rinky Hijikata|Mikael Ymer
+Alex Molcan|Albert Ramos
+Marton Fucsovics|J J Wolf
+Brandon Nakashima|John Isner
+Oscar Otte|Laslo Djere
+Yibing Wu|Jaume Munar
+Cristian Garin|Daniel Elahi Galan
+Ugo Humbert|Bernabe Zapata Miralles
+Taro Daniel|Roberto Carballes Baena
+Tung Lin Wu|Alexander Bublik
+Jason Kubler|Lorenzo Sonego
+Alejandro Tabilo|Maximilian Marterer
+Jannik Sinner|Carlos Alcaraz
+Taylor Fritz|Holger Rune
+Emil Ruusuvuori|Botic Van De Zandschulp
+Jannik Sinner|Andrey Rublev
+Christopher Eubanks|Adrian Mannarino
+Karen Khachanov|Stefanos Tsitsipas
+Botic Van De Zandschulp|Casper Ruud
+Adrian Mannarino|Hubert Hurkacz
+Christopher Eubanks|Gregoire Barrere
+Quentin Halys|Mackenzie Mcdonald
+Francisco Cerundolo|Felix Auger Aliassime
+Lorenzo Sonego|Frances Tiafoe
+Dusan Lajovic|Maxime Cressy
+Emil Ruusuvuori|Roberto Bautista Agut
+Taro Daniel|Alexander Zverev
+Adrian Mannarino|Ben Shelton
+Christopher Eubanks|Borna Coric
+Gregoire Barrere|Cameron Norrie
+Quentin Halys|Alex De Minaur
+Mackenzie Mcdonald|Matteo Berrettini
+Alex Molcan|Yoshihito Nishioka
+Lorenzo Sonego|Daniel Evans
+Jiri Lehecka|Lorenzo Musetti
+Cristian Garin|Sebastian Baez
+Dusan Lajovic|Andy Murray
+Emilio Nava|John Isner
+Guido Pella|Juan Pablo Varillas
+Marton Fucsovics|Pedro Cachin
+Alexei Popyrin|Mikael Ymer
+Taro Daniel|Arthur Rinderknech
+Jan Lennard Struff|Fabio Fognini
+J J Wolf|Alexander Bublik
+Roberto Carballes Baena|Bernabe Zapata Miralles
+Thiago Monteiro|Jason Kubler
+Aleksandar Kovacevic|Jaume Munar
+Cristian Garin|Marcos Giron
+Marco Cecchinato|Alejandro Davidovich Fokina
+Quentin Halys|Roberto Bautista Agut
+Dominic Thiem|Ben Shelton
+Bernabe Zapata Miralles|Hubert Hurkacz
+Joao Sousa|Giulio Zeppieri
+Quentin Halys|Nuno Borges
+Marco Cecchinato|Diego Schwartzman
+Jurij Rodionov|Albert Ramos
+Gijs Brouwer|J J Wolf
+Gijs Brouwer|John Isner
+Tomas Machac|Marcos Giron
+Yannick Hanfmann|Tommy Paul
+Steve Johnson|Facundo Bagnis
+Daniel Elahi Galan|Zhizhen Zhang
+Gijs Brouwer|Aleksandar Kovacevic
+Yannick Hanfmann|Yosuke Watanuki
+Alexandre Muller|Pavel Kotov
+Roberto Carballes Baena|Daniel Evans
+Alexandre Muller|Lorenzo Musetti
+Pavel Kotov|Christopher Oconnell
+Roberto Carballes Baena|Tallon Griekspoor
+Alexandre Muller|Francesco Passaro
+Christopher Oconnell|Botic Van De Zandschulp
+Pavel Kotov|Benjamin Bonzi
+Andrea Vavassori|Jaume Munar
+Hugo Gaston|Jan Lennard Struff
+Alexandre Muller|Richard Gasquet
+Roberto Carballes Baena|Maxime Cressy
+Dimitar Kuzmanov|Hugo Grenier
+Andrea Vavassori|Nicolas Jarry
+Holger Rune|Jannik Sinner
+Holger Rune|Daniil Medvedev
+Taylor Fritz|Stefanos Tsitsipas
+Lorenzo Musetti|Novak Djokovic
+Jan Lennard Struff|Casper Ruud
+Jan Lennard Struff|Alex De Minaur
+Jiri Lehecka|Grigor Dimitrov
+Ivan Gakhov|Mackenzie Mcdonald
+Jack Draper|Sebastian Baez
+Francisco Cerundolo|Cameron Norrie
+Dominic Thiem|Richard Gasquet
+Jaume Munar|Marc Andrea Huesler
+Ilya Ivashka|Daniel Evans
+Jan Lennard Struff|Albert Ramos
+Stan Wawrinka|Tallon Griekspoor
+Jiri Lehecka|Emil Ruusuvuori
+Nicolas Jarry|Borna Coric
+Alexei Popyrin|Dusan Lajovic
+Benjamin Bonzi|Bernabe Zapata Miralles
+Lorenzo Musetti|Jannik Sinner
+Francisco Cerundolo|Casper Ruud
+Daniel Evans|Karen Khachanov
+Lorenzo Musetti|Cameron Norrie
+Emil Ruusuvuori|Frances Tiafoe
+Nuno Borges|Ilya Ivashka
+Matteo Arnaldi|Jaume Munar
+Emilio Gomez|Albert Ramos
+Jozef Kovalik|Pedro Martinez
+Botic Van De Zandschulp|Taylor Fritz
+Cristian Garin|Lorenzo Sonego
+Christopher Oconnell|Alexander Zverev
+Flavio Cobolli|Oscar Otte
+Dominic Thiem|Marc Andrea Huesler
+Yannick Hanfmann|Thiago Monteiro
+Christopher Oconnell|Ugo Humbert
+Flavio Cobolli|Jordan Thompson
+Oscar Otte|Sebastian Baez
+Marcos Giron|Roberto Carballes Baena
+Alexander Ritschard|Jan Lennard Struff
+Aslan Karatsev|Daniel Altmaier
+Dominic Thiem|Constant Lestienne
+Dusan Lajovic|Andrey Rublev
+Dusan Lajovic|Miomir Kecmanovic
+Dusan Lajovic|Novak Djokovic
+Dusan Lajovic|Gregoire Barrere
+Laslo Djere|Borna Coric
+Damir Dzumhur|Richard Gasquet
+Luca Van Assche|Stan Wawrinka
+Abedallah Shelbayh|Elias Ymer
+Radu Albot|Federico Coria
+Alexei Popyrin|Tallon Griekspoor
+Damir Dzumhur|Liam Broady
+Jan Lennard Struff|Stefanos Tsitsipas
+Aslan Karatsev|Zhizhen Zhang
+Karen Khachanov|Andrey Rublev
+Daniel Altmaier|Jaume Munar
+Zhizhen Zhang|Taylor Fritz
+Aslan Karatsev|Daniil Medvedev
+Borna Coric|Hubert Hurkacz
+Alejandro Davidovich Fokina|Holger Rune
+Jan Lennard Struff|Dusan Lajovic
+Pedro Cachin|Frances Tiafoe
+Zhizhen Zhang|Cameron Norrie
+Aslan Karatsev|Alex De Minaur
+Hugo Grenier|Sebastian Korda
+Matteo Arnaldi|Casper Ruud
+Jaume Munar|Tallon Griekspoor
+Yannick Hanfmann|Lorenzo Musetti
+Dusan Lajovic|Felix Auger Aliassime
+Jan Lennard Struff|Ben Shelton
+Pedro Cachin|Francisco Cerundolo
+Roman Safiullin|Tommy Paul
+Bernabe Zapata Miralles|Daniel Evans
+Cristian Garin|Miomir Kecmanovic
+Zhizhen Zhang|Denis Shapovalov
+Aslan Karatsev|Botic Van De Zandschulp
+Alexander Shevchenko|Jiri Lehecka
+Hugo Grenier|Diego Schwartzman
+Alex Molcan|Yibing Wu
+Stan Wawrinka|Maxime Cressy
+Yannick Hanfmann|Juan Pablo Varillas
+Jan Lennard Struff|Lorenzo Sonego
+Tomas Martin Etcheverry|Adrian Mannarino
+Roman Safiullin|Nicolas Jarry
+Christopher Oconnell|Filip Krajinovic
+Yosuke Watanuki|Corentin Moutet
+Marco Cecchinato|Marton Fucsovics
+Aslan Karatsev|Laslo Djere
+Alexander Shevchenko|J J Wolf
+Andrea Vavassori|Andy Murray
+Holger Rune|Casper Ruud
+Holger Rune|Novak Djokovic
+Francisco Cerundolo|Jannik Sinner
+Yannick Hanfmann|Andrey Rublev
+Yannick Hanfmann|Marco Cecchinato
+Lorenzo Musetti|Frances Tiafoe
+Fabian Marozsan|Carlos Alcaraz
+Marton Fucsovics|Alex De Minaur
+Alexei Popyrin|Felix Auger Aliassime
+Roman Safiullin|Sebastian Korda
+Fabio Fognini|Miomir Kecmanovic
+Alexander Bublik|Ben Shelton
+Laslo Djere|Botic Van De Zandschulp
+Cristian Garin|Tommy Paul
+Gregoire Barrere|Karen Khachanov
+Alexander Shevchenko|Sebastian Baez
+Marco Cecchinato|Roberto Bautista Agut
+Yannick Hanfmann|Taylor Fritz
+J J Wolf|Hubert Hurkacz
+Lorenzo Sonego|Yoshihito Nishioka
+Roberto Carballes Baena|Daniel Evans
+Fabian Marozsan|Jiri Lehecka
+Stan Wawrinka|Ilya Ivashka
+Marton Fucsovics|Filip Krajinovic
+Roman Safiullin|Marcos Giron
+Fabio Fognini|Andy Murray
+Arthur Fils|Juan Manuel Cerundolo
+Cristian Garin|Pedro Cachin
+Gregoire Barrere|Brandon Nakashima
+Yibing Wu|Richard Gasquet
+Thanasi Kokkinakis|Jaume Munar
+Guido Pella|Maxime Cressy
+Marco Cecchinato|Mackenzie Mcdonald
+Yannick Hanfmann|Nicolas Jarry
+Nuno Borges|Dusan Lajovic
+Matteo Arnaldi|Diego Schwartzman
+Thiago Monteiro|Adrian Mannarino
+Fabian Marozsan|Corentin Moutet
+Nicolas Jarry|Grigor Dimitrov
+Nicolas Jarry|Alexander Zverev
+Grigor Dimitrov|Taylor Fritz
+Nicolas Jarry|Casper Ruud
+Nicolas Jarry|Tallon Griekspoor
+Christopher Oconnell|Bernabe Zapata Miralles
+Ilya Ivashka|Adrian Mannarino
+Nicolas Jarry|Dusan Lajovic
+Marco Cecchinato|Ben Shelton
+Marcos Giron|Alexander Bublik
+Arthur Fils|Francisco Cerundolo
+Arthur Fils|Brandon Nakashima
+Francisco Cerundolo|Cameron Norrie
+Arthur Fils|Felix Auger Aliassime
+Brandon Nakashima|Tommy Paul
+Arthur Fils|Mikael Ymer
+Jack Draper|Miomir Kecmanovic
+Pablo Llamas Ruiz|Max Purcell
+Arthur Fils|Zhizhen Zhang
+Mikael Ymer|Richard Gasquet
+Juan Pablo Varillas|Albert Ramos
+Taro Daniel|Christopher Oconnell
+Matteo Arnaldi|Daniel Elahi Galan
+Lucas Pouille|Jurij Rodionov
+Fabio Fognini|Felix Auger Aliassime
+Sebastian Ofner|Maxime Cressy
+Diego Schwartzman|Bernabe Zapata Miralles
+Luca Van Assche|Marco Cecchinato
+Stan Wawrinka|Albert Ramos
+Thanasi Kokkinakis|Daniel Evans
+Lorenzo Sonego|Ben Shelton
+Gael Monfils|Sebastian Baez
+Andrea Vavassori|Miomir Kecmanovic
+Arthur Rinderknech|Richard Gasquet
+Jiri Lehecka|Jan Lennard Struff
+Thiago Agustin Tirante|Botic Van De Zandschulp
+Zhizhen Zhang|Dusan Lajovic
+Giulio Zeppieri|Alexander Bublik
+Guido Pella|Quentin Halys
+Thiago Seyboth Wild|Daniil Medvedev
+Fabio Fognini|Jason Kubler
+Sebastian Ofner|Sebastian Korda
+Diego Schwartzman|Nuno Borges
+Juan Pablo Varillas|Roberto Bautista Agut
+Thanasi Kokkinakis|Stan Wawrinka
+Lorenzo Sonego|Ugo Humbert
+Genaro Alberto Olivieri|Andrea Vavassori
+Nicolas Jarry|Tommy Paul
+Marcos Giron|Jiri Lehecka
+Daniel Altmaier|Jannik Sinner
+Tomas Martin Etcheverry|Alex De Minaur
+Lorenzo Musetti|Cameron Norrie
+Juan Pablo Varillas|Hubert Hurkacz
+Lorenzo Sonego|Andrey Rublev
+Francisco Cerundolo|Taylor Fritz
+Alexander Zverev|Frances Tiafoe
+Tomas Martin Etcheverry|Borna Coric
+Tomas Martin Etcheverry|Yoshihito Nishioka
+Novak Djokovic|Carlos Alcaraz
+Jordan Thompson|Adrian Mannarino
+Rinky Hijikata|Mackenzie Mcdonald
+Tallon Griekspoor|Alex De Minaur
+Emil Ruusuvuori|Jannik Sinner
+Adrian Mannarino|Daniil Medvedev
+Mackenzie Mcdonald|Borna Coric
+Rinky Hijikata|Marc Andrea Huesler
+Emil Ruusuvuori|Ugo Humbert
+Marc Andrea Huesler|Maxime Cressy
+Alexei Popyrin|Arthur Rinderknech
+Jan Lennard Struff|Hubert Hurkacz
+Marton Fucsovics|Taylor Fritz
+Richard Gasquet|Stefanos Tsitsipas
+Jan Lennard Struff|Tommy Paul
+Christopher Oconnell|Lorenzo Sonego
+Marton Fucsovics|Yibing Wu
+Christopher Oconnell|Daniel Altmaier
+Lorenzo Sonego|Matteo Berrettini
+Yibing Wu|Nick Kyrgios
+Marton Fucsovics|Denis Shapovalov
+Alexander Bublik|Andrey Rublev
+Alexander Bublik|Alexander Zverev
+Roberto Bautista Agut|Daniil Medvedev
+Alexander Bublik|Jannik Sinner
+Tallon Griekspoor|Hubert Hurkacz
+Alexander Bublik|Jan Lennard Struff
+Nicolas Jarry|Stefanos Tsitsipas
+Alexander Bublik|Borna Coric
+Alex De Minaur|Holger Rune
+Sebastian Korda|Cameron Norrie
+Grigor Dimitrov|Francisco Cerundolo
+Sebastian Korda|Frances Tiafoe
+Adrian Mannarino|Taylor Fritz
+Jiri Lehecka|Alejandro Davidovich Fokina
+Francisco Cerundolo|Tommy Paul
+Sebastian Korda|Daniel Evans
+Diego Schwartzman|Mackenzie Mcdonald
+Ryan Peniston|Ugo Humbert
+Christopher Eubanks|Adrian Mannarino
+Lloyd Harris|Pavel Kotov
+Yannick Hanfmann|Stefanos Tsitsipas
+Feliciano Lopez|Jordan Thompson
+Corentin Moutet|Roberto Carballes Baena
+Arthur Rinderknech|Constant Lestienne
+Christopher Eubanks|Ben Shelton
+Lloyd Harris|Roman Safiullin
+Pavel Kotov|Alejandro Davidovich Fokina
+Feliciano Lopez|Max Purcell
+Jordan Thompson|Richard Gasquet
+Guido Pella|Marcos Giron
+Corentin Moutet|Christopher Oconnell
+Arthur Rinderknech|Albert Ramos
+Lloyd Harris|Bernabe Zapata Miralles
+Francisco Cerundolo|Tommy Paul
+Mackenzie Mcdonald|Mikael Ymer
+Gregoire Barrere|Miomir Kecmanovic
+Mackenzie Mcdonald|Taylor Fritz
+Gregoire Barrere|Nicolas Jarry
+Mikael Ymer|Botic Van De Zandschulp
+Zhizhen Zhang|Lorenzo Sonego
+Aleksandar Vukic|Brandon Nakashima
+Gregoire Barrere|Emil Ruusuvuori
+J J Wolf|Tomas Martin Etcheverry
+Alexandre Muller|Arthur Rinderknech
+Jason Kubler|Ugo Humbert
+Yosuke Watanuki|Marc Andrea Huesler
+Dominic Stricker|Alexei Popyrin
+Marton Fucsovics|Tallon Griekspoor
+Milos Raonic|Dennis Novak
+Jiri Vesely|Sebastian Korda
+Laslo Djere|Maxime Cressy
+Diego Schwartzman|Miomir Kecmanovic
+Aleksandar Vukic|Daniel Altmaier
+Quentin Halys|Daniel Evans
+Daniel Elahi Galan|Yoshihito Nishioka
+Oscar Otte|Dominik Koepfer
+Guido Pella|Borna Coric
+Harold Mayot|Benjamin Bonzi
+Corentin Moutet|Richard Gasquet
+Roman Safiullin|Roberto Bautista Agut
+Liam Broady|Constant Lestienne
+Tomas Barrios Vera|Sebastian Baez
+David Goffin|Fabian Marozsan
+Maximilian Marterer|Borna Gojo
+Michael Mmoh|Felix Auger Aliassime
+Jaume Munar|John Isner
+Jan Choinski|Dusan Lajovic
+Stan Wawrinka|Emil Ruusuvuori
+Jordan Thompson|Brandon Nakashima
+Matteo Berrettini|Alex De Minaur
+Marton Fucsovics|Marcos Giron
+Jiri Lehecka|Francisco Cerundolo
+Christopher Eubanks|Cameron Norrie
+Laslo Djere|Ben Shelton
+Mikael Ymer|Taylor Fritz
+Guido Pella|Harold Mayot
+Roman Safiullin|Corentin Moutet
+Liam Broady|Casper Ruud
+Maximilian Marterer|Michael Mmoh
+Stan Wawrinka|Tomas Martin Etcheverry
+Matteo Berrettini|Alexander Zverev
+Grigor Dimitrov|Frances Tiafoe
+Jiri Lehecka|Tommy Paul
+Daniel Elahi Galan|Mikael Ymer
+Hubert Hurkacz|Lorenzo Musetti
+Christopher Eubanks|Stefanos Tsitsipas
+Roman Safiullin|Denis Shapovalov
+Pedro Cachin|Albert Ramos
+Albert Ramos|Miomir Kecmanovic
+Hamad Medjedovic|Yannick Hanfmann
+Albert Ramos|Juan Pablo Varillas
+Pedro Cachin|Roberto Bautista Agut
+Jaume Munar|Stan Wawrinka
+Hamad Medjedovic|Dominic Thiem
+Albert Ramos|Lorenzo Sonego
+Zizou Bergs|Jurij Rodionov
+Stan Wawrinka|Roberto Carballes Baena
+Dominic Thiem|Alexandre Muller
+Hamad Medjedovic|Zhizhen Zhang
+Facundo Bagnis|Arthur Rinderknech
+Zizou Bergs|Laslo Djere
+Jurij Rodionov|Marc Andrea Huesler
+Dominic Stricker|Arthur Fils
+Andrey Rublev|Casper Ruud
+Sebastian Ofner|Bernabe Zapata Miralles
+Sebastian Ofner|Tomas Martin Etcheverry
+Matteo Arnaldi|Emil Ruusuvuori
+Filip Misolic|Dusan Lajovic
+Jozef Kovalik|Alejandro Davidovich Fokina
+Federico Coria|Sebastian Baez
+Leo Borg|Elias Ymer
+Thiago Monteiro|Daniel Elahi Galan
+Alex Michelsen|John Isner
+John Isner|Tommy Paul
+Alex Michelsen|Mackenzie Mcdonald
+John Isner|Corentin Moutet
+Alex Michelsen|James Duckworth
+Ethan Quinn|Sasi Kumar Mukund
+Li Tu|Aleksandar Vukic
+James Duckworth|Constant Lestienne
+Alex Michelsen|Maxime Cressy
+Gijs Brouwer|Max Purcell
+Aleksandar Vukic|Ugo Humbert
+Aleksandar Vukic|Christopher Eubanks
+Ugo Humbert|Alex De Minaur
+Kei Nishikori|Juncheng Shang
+Dominik Koepfer|Daniel Evans
+Aleksandar Vukic|Yoshihito Nishioka
+Yibing Wu|Corentin Moutet
+Kei Nishikori|Jordan Thompson
+Juncheng Shang|Ben Shelton
+Lloyd Harris|James Duckworth
+Arthur Fils|Casper Ruud
+Laslo Djere|Lorenzo Musetti
+Zhizhen Zhang|Daniel Altmaier
+Arthur Fils|Dusan Lajovic
+Luca Van Assche|Alejandro Davidovich Fokina
+Zhizhen Zhang|Yannick Hanfmann
+Daniel Altmaier|Andrey Rublev
+Arthur Fils|Daniel Elahi Galan
+Dusan Lajovic|Miomir Kecmanovic
+Laslo Djere|Tomas Martin Etcheverry
+Guido Pella|Thiago Monteiro
+Jozef Kovalik|Thiago Seyboth Wild
+Yannick Hanfmann|Francisco Cerundolo
+Daniel Altmaier|Richard Gasquet
+Alexei Popyrin|Stan Wawrinka
+Alexei Popyrin|Matteo Arnaldi
+Stan Wawrinka|Lorenzo Sonego
+Matteo Arnaldi|Jiri Lehecka
+Stan Wawrinka|Roberto Carballes Baena
+Alexei Popyrin|Sebastian Ofner
+Dino Prizmic|Zsombor Piros
+Jaume Munar|Fabian Marozsan
+Flavio Cobolli|Marin Cilic
+Zsombor Piros|Christopher Oconnell
+Federico Coria|Marc Andrea Huesler
+Jaume Munar|Albert Ramos
+Marco Cecchinato|Alexander Shevchenko
+Sebastian Baez|Tomas Martin Etcheverry
+Dominic Thiem|Laslo Djere
+Dominic Thiem|Arthur Rinderknech
+Daniel Elahi Galan|Daniel Altmaier
+Alex Molcan|Sebastian Ofner
+Sebastian Baez|Roberto Carballes Baena
+Dominic Thiem|Zhizhen Zhang
+Arthur Rinderknech|Yannick Hanfmann
+Guido Andreozzi|Filip Misolic
+Alex Molcan|Luca Van Assche
+Albert Ramos|Juan Pablo Varillas
+Alex De Minaur|Tommy Paul
+Aleksandar Kovacevic|Cameron Norrie
+John Isner|Rinky Hijikata
+Gijs Brouwer|Gabriel Diallo
+Borna Gojo|Cristian Garin
+Felipe Meligeni Alves|Alejandro Tabilo
+Tallon Griekspoor|Taylor Fritz
+Daniel Evans|Grigor Dimitrov
+Daniel Evans|Frances Tiafoe
+Jordan Thompson|Christopher Eubanks
+Jordan Thompson|Adrian Mannarino
+Michael Mmoh|Hubert Hurkacz
+Gael Monfils|Alexander Bublik
+Emil Ruusuvuori|Yoshihito Nishioka
+Yosuke Watanuki|Felix Auger Aliassime
+Alexander Shevchenko|Sebastian Korda
+Juncheng Shang|Ben Shelton
+Zachary Svajda|Max Purcell
+Brandon Nakashima|Aleksandar Vukic
+Radu Albot|Marcos Giron
+Liam Broady|Corentin Moutet
+Yosuke Watanuki|Yibing Wu
+Tommy Paul|Carlos Alcaraz
+Alex De Minaur|Daniil Medvedev
+Gael Monfils|Aleksandar Vukic
+Alejandro Davidovich Fokina|Casper Ruud
+Alex De Minaur|Taylor Fritz
+Marcos Giron|Holger Rune
+Gael Monfils|Stefanos Tsitsipas
+Aleksandar Vukic|Sebastian Korda
+Mackenzie Mcdonald|Andrey Rublev
+Milos Raonic|Taro Daniel
+Alejandro Davidovich Fokina|Alexander Zverev
+Marcos Giron|Emil Ruusuvuori
+Gael Monfils|Christopher Eubanks
+Sebastian Korda|Tomas Martin Etcheverry
+Aleksandar Vukic|Borna Coric
+Max Purcell|Felix Auger Aliassime
+Andy Murray|Lorenzo Sonego
+Taro Daniel|Adrian Mannarino
+Milos Raonic|Frances Tiafoe
+Ugo Humbert|Nicolas Jarry
+Gabriel Diallo|Daniel Evans
+Alex De Minaur|Cameron Norrie
+Thanasi Kokkinakis|Zhizhen Zhang
+Novak Djokovic|Carlos Alcaraz
+Max Purcell|Stan Wawrinka
+Hubert Hurkacz|Stefanos Tsitsipas
+Alexander Zverev|Daniil Medvedev
+Stan Wawrinka|Frances Tiafoe
+Max Purcell|Casper Ruud
+Hubert Hurkacz|Borna Coric
+Alexei Popyrin|Nicolas Jarry
+Emil Ruusuvuori|Andrey Rublev
+Mackenzie Mcdonald|Holger Rune
+Adrian Mannarino|Felix Auger Aliassime
+Dusan Lajovic|Jannik Sinner
+Gael Monfils|Alex De Minaur
+Ben Shelton|Christopher Eubanks
+Alexei Popyrin|Daniel Altmaier
+Dusan Lajovic|Francisco Cerundolo
+Gael Monfils|Cameron Norrie
+Sebastian Baez|Jiri Lehecka
+Sebastian Baez|Borna Coric
+Jiri Lehecka|Sebastian Korda
+Sebastian Baez|Laslo Djere
+Max Purcell|Tallon Griekspoor
+Michael Mmoh|Marcos Giron
+Juan Manuel Cerundolo|Yannick Hanfmann
+Omni Kumar|Botic Van De Zandschulp
+Alex Michelsen|Sebastian Ofner
+Brandon Nakashima|Arthur Fils
+Juan Manuel Cerundolo|Roman Safiullin
+Omni Kumar|Arthur Rinderknech
+Facundo Diaz Acosta|Quentin Halys
+Alex Michelsen|Juan Pablo Varillas
+Marc Andrea Huesler|Alexander Shevchenko
+Benjamin Bonzi|Alexandre Muller
+Mitchell Krueger|Pavel Kotov
+Jack Draper|Nuno Borges
+Zizou Bergs|Soon Woo Kwon
+Soon Woo Kwon|David Goffin
+Seong Chan Hong|Zizou Bergs
+Borna Gojo|Dominic Thiem
+Tomas Machac|Joao Sousa
+Zsombor Piros|Benjamin Bonzi
+Ugo Humbert|Marton Fucsovics
+Nicolas Mejia|Daniel Evans
+Marc Andrea Huesler|Alexander Zverev
+Stan Wawrinka|Daniel Altmaier
+Timofey Skatov|Cristian Garin
+Nicolas Jarry|Alexander Bublik
+Cristian Garin|Alexander Bublik
+Tim Van Rijthoven|Alex Molcan
+Sumit Nagal|August Holmgren
+Karlis Ozolins|Edan Leshem
+Yuttana Charoenphon|Nicholas David Ionel
+Viacheslav Bielinskyi|Benjamin Hassan
+Darian King|Colin Sinclair
+Adolfo Daniel Vallejo|Mohamed Safwat
+Adolfo Daniel Vallejo|Amr Elsayed Abdou Ahmed Mohamed
+Rowland Phillips|Kristjan Tamm
+Blaise Bicknell|Kristjan Tamm
+Chris Rodesch|Kris Van Wyk
+Alex Knaff|Kris Van Wyk
+Petros Chrysochos|Skander Mansouri
+Menelaos Efstathiou|Aziz Dougaz

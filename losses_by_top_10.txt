@@ -1,0 +1,57 @@
+Winner|Loser|Score|Tournament|Round
+Frances Tiafoe|Lorenzo Musetti|6-2 0-0 RET|United Cup|F
+Frances Tiafoe|Tomas Machac|6-3 2-4 RET|United Cup|RR
+Sebastian Korda|Yoshihito Nishioka|7-6(5) 1-0 RET|Adelaide 1|SF
+Daniil Medvedev|Lorenzo Sonego|7-6(6) 2-1 RET|Adelaide 1|R32
+Mackenzie Mcdonald|Daniel Elahi Galan|6-3 0-0 RET|Adelaide 1|R32
+Jenson Brooksby|Diego Schwartzman|6-1 0-0 RET|Auckland|R16
+Karen Khachanov|Sebastian Korda|7-6(5) 6-3 3-0 RET|Australian Open|QF
+Federico Coria|Francisco Cerundolo|6-3 3-0 RET|Cordoba|QF
+Federico Coria|Marco Cecchinato|6-3 3-1 RET|Cordoba|R16
+Juan Manuel Cerundolo|Pablo Andujar|6-4 1-0 RET|Cordoba|R32
+Alejandro Davidovich Fokina|Ugo Humbert|1-6 7-6(2) 0-0 RET|Montpellier|R32
+Gijs Brouwer|Holger Rune|6-4 4-0 RET|Rotterdam|R16
+Jason Kubler|Aslan Karatsev|7-6(4) 1-0 RET|Doha|R32
+Laslo Djere|Facundo Bagnis|6-2 3-2 RET|Rio De Janeiro|R32
+Holger Rune|Matteo Berrettini|6-0 1-0 RET|Acapulco|QF
+Tommy Paul|Michael Mmoh|6-4 2-2 RET|Acapulco|R16
+Matteo Berrettini|Alex Molcan|6-0 1-0 RET|Acapulco|R32
+Jacopo Berrettini|Oscar Otte|3-6 7-6(3) 2-1 RET|Acapulco|R32
+Alexander Bublik|Alexandar Lazarov|6-1 1-0 RET|Dubai|R32
+Borna Coric|Daniel Evans|2-2 RET|Dubai|R32
+Roberto Carballes Baena|Carlos Taberner|6-1 0-0 RET|Santiago|R32
+Carlos Alcaraz|Jack Draper|6-2 2-0 RET|Indian Wells Masters|R16
+Ilya Ivashka|Botic Van De Zandschulp|7-5 3-2 RET|Indian Wells Masters|R64
+Jason Kubler|Grigor Dimitrov|2-6 7-6(5) 3-0 RET|Indian Wells Masters|R64
+Emil Ruusuvuori|Constant Lestienne|6-4 4-1 RET|Indian Wells Masters|R128
+Alexei Popyrin|Mikael Ymer|7-6(5) 4-4 RET|Miami Masters|R128
+Taro Daniel|Arthur Rinderknech|4-1 RET|Miami Masters|R128
+Ugo Humbert|Gael Monfils|3-3 RET|Miami Masters|R128
+Roberto Carballes Baena|Bernabe Zapata Miralles|6-0 3-0 RET|Miami Masters|R128
+Roberto Carballes Baena|Dimitar Kuzmanov|2-0 RET|Marrakech|R16
+Jannik Sinner|Diego Schwartzman|6-0 3-1 RET|Monte Carlo Masters|R32
+Stefanos Tsitsipas|Benjamin Bonzi|4-1 RET|Monte Carlo Masters|R32
+Dominic Thiem|Constant Lestienne|6-3 0-0 RET|Munich|R32
+Radu Albot|Federico Coria|6-4 0-0 RET|Banja Luka|R32
+Jaume Munar|Tallon Griekspoor|7-6(3) 0-0 RET|Madrid Masters|R64
+Laslo Djere|Cristian Garin|6-3 2-1 RET|Rome Masters|R32
+Laslo Djere|Constant Lestienne|6-1 0-0 RET|Rome Masters|R128
+Thanasi Kokkinakis|Jaume Munar|4-2 RET|Rome Masters|R128
+Alexander Zverev|Yibing Wu|4-1 RET|Geneva|QF
+Christopher Oconnell|Bernabe Zapata Miralles|6-0 3-0 RET|Geneva|R16
+Francisco Cerundolo|Juan Pablo Varillas|6-2 0-0 RET|Lyon|R16
+Zhizhen Zhang|Dusan Lajovic|6-1 4-1 RET|Roland Garros|R128
+Tomas Martin Etcheverry|Jack Draper|6-4 1-0 RET|Roland Garros|R128
+Alexander Bublik|Jannik Sinner|7-5 2-0 RET|Halle|QF
+Daniil Medvedev|Jiri Lehecka|6-4 6-2 RET|Wimbledon|R16
+Stan Wawrinka|Roberto Carballes Baena|6-1 3-1 RET|Gstaad|R32
+Yannick Hanfmann|Francisco Cerundolo|4-6 6-2 4-2 RET|Hamburg|R32
+Yosuke Watanuki|Yibing Wu|1-4 RET|Washington|R64
+Adrian Mannarino|Mackenzie Mcdonald|6-4 3-0 RET|Cincinnati Masters|R16
+Taylor Fritz|Dusan Lajovic|5-0 RET|Cincinnati Masters|R16
+Mackenzie Mcdonald|Holger Rune|6-4 2-0 RET|Cincinnati Masters|R32
+Novak Djokovic|Alejandro Davidovich Fokina|6-4 0-0 RET|Cincinnati Masters|R32
+Tallon Griekspoor|Jack Draper|7-6(8) 0-0 RET|Winston-Salem|R32
+Marc Andrea Huesler|Alexander Shevchenko|6-3 4-6 4-0 RET|Winston-Salem|R64
+Gustavo Heide|Rigele Te|3-0 RET|Davis Cup WG1 PO: BRA vs CHN|RR
+Blaise Bicknell|Kristjan Tamm|7-6(7) RET|Davis Cup WG2 PO: EST vs JAM|RR

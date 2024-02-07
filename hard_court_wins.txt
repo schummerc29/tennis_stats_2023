@@ -1,0 +1,11 @@
+winner_name|Hard_Court_Wins
+Daniil Medvedev|33
+Taylor Fritz|31
+Jannik Sinner|27
+Tommy Paul|23
+Alex De Minaur|23
+Novak Djokovic|20
+Mackenzie Mcdonald|20
+Hubert Hurkacz|20
+Tallon Griekspoor|19
+Stefanos Tsitsipas|18

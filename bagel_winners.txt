@@ -1,0 +1,6 @@
+winner_name|loser_name|score|tourney_name|round
+Yoshihito Nishioka|Oscar Otte|6-3 0-6 6-4|Delray Beach|R32
+Taro Daniel|Matteo Berrettini|7-6(5) 0-6 6-3|Indian Wells Masters|R64
+Tallon Griekspoor|Pedro Martinez|6-4 2-6 0-6 7-5 6-3|Roland Garros|R128
+Lorenzo Sonego|Andrey Rublev|5-7 0-6 6-3 7-6(5) 6-3|Roland Garros|R32
+Adolfo Daniel Vallejo|Mohamed Safwat|6-1 0-6 6-4|Davis Cup WG2 PO: EGY vs PAR|RR

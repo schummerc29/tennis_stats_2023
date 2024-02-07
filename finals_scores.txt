@@ -1,0 +1,53 @@
+winner_name|loser_name|tourney_name|score
+Taylor Fritz|Matteo Berrettini|United Cup|7-6(4) 7-6(6)
+Frances Tiafoe|Lorenzo Musetti|United Cup|6-2 0-0 RET
+Novak Djokovic|Sebastian Korda|Adelaide 1|6-7(8) 7-6(3) 6-4
+Tallon Griekspoor|Benjamin Bonzi|Pune|4-6 7-5 6-3
+Richard Gasquet|Cameron Norrie|Auckland|4-6 6-4 6-4
+Soon Woo Kwon|Roberto Bautista Agut|Adelaide 2|6-4 3-6 7-6(4)
+Novak Djokovic|Stefanos Tsitsipas|Australian Open|6-3 7-6(4) 7-6(5)
+Sebastian Baez|Federico Coria|Cordoba|6-1 3-6 6-3
+Yibing Wu|John Isner|Dallas|6-7(4) 7-6(3) 7-6(12)
+Jannik Sinner|Maxime Cressy|Montpellier|7-6(3) 6-3
+Taylor Fritz|Miomir Kecmanovic|Delray Beach|6-0 5-7 6-2
+Carlos Alcaraz|Cameron Norrie|Buenos Aires|6-3 7-5
+Daniil Medvedev|Jannik Sinner|Rotterdam|5-7 6-2 6-2
+Daniil Medvedev|Andy Murray|Doha|6-4 6-4
+Cameron Norrie|Carlos Alcaraz|Rio De Janeiro|5-7 6-4 7-5
+Hubert Hurkacz|Benjamin Bonzi|Marseille|6-3 7-6(4)
+Alex De Minaur|Tommy Paul|Acapulco|3-6 6-4 6-1
+Daniil Medvedev|Andrey Rublev|Dubai|6-2 6-2
+Nicolas Jarry|Tomas Martin Etcheverry|Santiago|6-7(5) 7-6(5) 6-2
+Carlos Alcaraz|Daniil Medvedev|Indian Wells Masters|6-3 6-2
+Daniil Medvedev|Jannik Sinner|Miami Masters|7-5 6-3
+Casper Ruud|Miomir Kecmanovic|Estoril|6-2 7-6(3)
+Frances Tiafoe|Tomas Martin Etcheverry|Houston|7-6(1) 7-6(6)
+Roberto Carballes Baena|Alexandre Muller|Marrakech|4-6 7-6(3) 6-2
+Andrey Rublev|Holger Rune|Monte Carlo Masters|5-7 6-2 7-5
+Carlos Alcaraz|Stefanos Tsitsipas|Barcelona|6-3 6-4
+Holger Rune|Botic Van De Zandschulp|Munich|6-4 1-6 7-6(3)
+Dusan Lajovic|Andrey Rublev|Banja Luka|6-3 4-6 6-4
+Carlos Alcaraz|Jan Lennard Struff|Madrid Masters|6-4 3-6 6-3
+Daniil Medvedev|Holger Rune|Rome Masters|7-5 7-5
+Nicolas Jarry|Grigor Dimitrov|Geneva|7-6(1) 6-1
+Arthur Fils|Francisco Cerundolo|Lyon|6-3 7-5
+Novak Djokovic|Casper Ruud|Roland Garros|7-6(1) 6-3 7-5
+Tallon Griekspoor|Jordan Thompson|s Hertogenbosch|6-7(4) 7-6(3) 6-3
+Frances Tiafoe|Jan Lennard Struff|Stuttgart|4-6 7-6(1) 7-6(8)
+Alexander Bublik|Andrey Rublev|Halle|6-3 3-6 6-3
+Carlos Alcaraz|Alex De Minaur|Queen's Club|6-4 6-4
+Christopher Eubanks|Adrian Mannarino|Mallorca|6-1 6-4
+Francisco Cerundolo|Tommy Paul|Eastbourne|6-4 1-6 6-4
+Carlos Alcaraz|Novak Djokovic|Wimbledon|1-6 7-6(6) 6-1 3-6 6-4
+Pedro Cachin|Albert Ramos|Gstaad|3-6 6-0 7-5
+Andrey Rublev|Casper Ruud|Bastad|7-6(3) 6-0
+Adrian Mannarino|Alex Michelsen|Newport|6-2 6-4
+Taylor Fritz|Aleksandar Vukic|Atlanta|7-5 6-7(5) 6-4
+Alexander Zverev|Laslo Djere|Hamburg|7-5 6-3
+Alexei Popyrin|Stan Wawrinka|Umag|6-7(5) 6-3 6-4
+Sebastian Baez|Dominic Thiem|Kitzbuhel|6-3 6-1
+Stefanos Tsitsipas|Alex De Minaur|Los Cabos|6-3 6-4
+Daniel Evans|Tallon Griekspoor|Washington|7-5 6-3
+Jannik Sinner|Alex De Minaur|Canada Masters|6-4 6-1
+Novak Djokovic|Carlos Alcaraz|Cincinnati Masters|5-7 7-6(7) 7-6(4)
+Sebastian Baez|Jiri Lehecka|Winston-Salem|6-4 6-3

@@ -1,0 +1,158 @@
+winner_name|Clay_Court_Wins
+Carlos Alcaraz|25
+Casper Ruud|22
+Nicolas Jarry|20
+Alexander Zverev|20
+Tomas Martin Etcheverry|19
+Sebastian Baez|19
+Andrey Rublev|19
+Holger Rune|18
+Francisco Cerundolo|18
+Cameron Norrie|18
+Stefanos Tsitsipas|17
+Lorenzo Musetti|17
+Laslo Djere|16
+Bernabe Zapata Miralles|16
+Yannick Hanfmann|15
+Dusan Lajovic|15
+Roberto Carballes Baena|14
+Pedro Cachin|14
+Jaume Munar|13
+Dominic Thiem|13
+Novak Djokovic|12
+Cristian Garin|12
+Taylor Fritz|11
+Juan Pablo Varillas|11
+Alexei Popyrin|11
+Albert Ramos|11
+Zhizhen Zhang|10
+Marco Cecchinato|10
+Karen Khachanov|10
+Grigor Dimitrov|10
+Daniil Medvedev|10
+Daniel Altmaier|10
+Stan Wawrinka|9
+Miomir Kecmanovic|9
+Matteo Arnaldi|9
+Lorenzo Sonego|9
+Jan Lennard Struff|9
+Borna Coric|9
+Arthur Fils|9
+Alex Molcan|9
+Alejandro Davidovich Fokina|9
+Jiri Lehecka|8
+Jannik Sinner|8
+Frances Tiafoe|8
+Christopher Oconnell|8
+Thiago Monteiro|7
+Marcos Giron|7
+Federico Coria|7
+Aslan Karatsev|7
+Luca Van Assche|6
+Fabio Fognini|6
+Alexander Shevchenko|6
+Yoshihito Nishioka|5
+Sebastian Ofner|5
+Pavel Kotov|5
+Jason Kubler|5
+J J Wolf|5
+Hugo Dellien|5
+Hubert Hurkacz|5
+Gregoire Barrere|5
+Emil Ruusuvuori|5
+Daniel Evans|5
+Arthur Rinderknech|5
+Alexandre Muller|5
+Alex De Minaur|5
+Roman Safiullin|4
+Roberto Bautista Agut|4
+Quentin Halys|4
+Marton Fucsovics|4
+Guido Pella|4
+Fabian Marozsan|4
+Diego Schwartzman|4
+Daniel Elahi Galan|4
+Botic Van De Zandschulp|4
+Andrea Vavassori|4
+Yibing Wu|3
+Tomas Machac|3
+Thiago Seyboth Wild|3
+Thanasi Kokkinakis|3
+Tallon Griekspoor|3
+Nuno Borges|3
+Juan Manuel Cerundolo|3
+Jozef Kovalik|3
+Joao Sousa|3
+Jack Draper|3
+Ilya Ivashka|3
+Hamad Medjedovic|3
+Gijs Brouwer|3
+Flavio Cobolli|3
+Denis Shapovalov|3
+David Goffin|3
+Brandon Nakashima|3
+Alexander Bublik|3
+Zizou Bergs|2
+Tommy Paul|2
+Tomas Barrios Vera|2
+Taro Daniel|2
+Richard Gasquet|2
+Radu Albot|2
+Oscar Otte|2
+Max Purcell|2
+Matteo Berrettini|2
+Jurij Rodionov|2
+Hugo Grenier|2
+Hugo Gaston|2
+Genaro Alberto Olivieri|2
+Francesco Passaro|2
+Filip Misolic|2
+Dino Prizmic|2
+Damir Dzumhur|2
+Benjamin Bonzi|2
+Ben Shelton|2
+Adolfo Daniel Vallejo|2
+Zsombor Piros|1
+Yosuke Watanuki|1
+Ugo Humbert|1
+Timofey Skatov|1
+Thiago Agustin Tirante|1
+Steve Johnson|1
+Sebastian Korda|1
+Riccardo Bonadio|1
+Pedro Martinez|1
+Pablo Llamas Ruiz|1
+Nicolas Mejia|1
+Mohamed Safwat|1
+Mikael Ymer|1
+Maximilian Marterer|1
+Matheus Pucinelli De Almeida|1
+Marc Andrea Huesler|1
+Luciano Darderi|1
+Lucas Pouille|1
+Luca Nardi|1
+Leo Borg|1
+Ivan Gakhov|1
+Gustavo Heide|1
+Guido Andreozzi|1
+Gonzalo Bueno|1
+Giulio Zeppieri|1
+Gael Monfils|1
+Felix Auger Aliassime|1
+Federico Delbonis|1
+Facundo Diaz Acosta|1
+Facundo Bagnis|1
+Emilio Gomez|1
+Elias Ymer|1
+Dominic Stricker|1
+Dimitar Kuzmanov|1
+Denis Kudla|1
+Corentin Moutet|1
+Conner Huertas Del Pino|1
+Christopher Eubanks|1
+Camilo Ugo Carabelli|1
+Arklon Huertas Del Pino|1
+Amr Elsayed Abdou Ahmed Mohamed|1
+Alexander Ritschard|1
+Adrian Mannarino|1
+Abedallah Shelbayh|1
