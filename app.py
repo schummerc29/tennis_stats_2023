@@ -1,7 +1,139 @@
 from pandasql import sqldf
 import pandas as pd
+import sqlite3
+import csv
+
+connection = sqlite3.connect('atp2023.db')
+cursor = connection.cursor()
+select_query = ''
+
+create_table = '''
+               CREATE TABLE match_stats (
+               tourney_id,
+               tourney_name,
+               surface,
+               draw_size,
+               tourney_level,
+               tourney_date,
+               match_num,
+               winner_id,
+               winner_seed,
+               winner_entry,
+               winner_name,
+               winner_hand,
+               winner_ht,
+               winner_ioc,
+               winner_age,
+               loser_id,
+               loser_seed,
+               loser_entry,
+               loser_name,
+               loser_hand,
+               loser_ht,
+               loser_ioc,
+               loser_age,
+               score,
+               best_of,round,
+               minutes,
+               w_ace,
+               w_df,
+               w_svpt,
+               w_1stIn,
+               w_1stWon,
+               w_2ndWon,
+               w_SvGms,
+               w_bpSaved,
+               w_bpFaced,
+               l_ace,
+               l_df,
+               l_svpt,
+               l_1stIn,
+               l_1stWon,
+               l_2ndWon,
+               l_SvGms,
+               l_bpSaved,
+               l_bpFaced,
+               winner_rank,
+               winner_rank_points,
+               loser_rank,
+               loser_rank_points
+               );
+  '''
+
+
+try:
+    cursor.execute(create_table)
+except sqlite3.DatabaseError:
+    print("Table already created")
+
+
+connection.commit()
 
 matches_2023 = pd.read_csv('Data/atp_matches_2023.csv')
+
+file = open('Data/atp_matches_2023.csv')
+statistics = csv.reader(file)
+
+insert = ''' INSERT INTO match_stats
+               (tourney_id,
+               tourney_name,
+               surface,
+               draw_size,
+               tourney_level,
+               tourney_date,
+               match_num,
+               winner_id,
+               winner_seed,
+               winner_entry,
+               winner_name,
+               winner_hand,
+               winner_ht,
+               winner_ioc,
+               winner_age,
+               loser_id,
+               loser_seed,
+               loser_entry,
+               loser_name,
+               loser_hand,
+               loser_ht,
+               loser_ioc,
+               loser_age,
+               score,
+               best_of,round,
+               minutes,
+               w_ace,
+               w_df,
+               w_svpt,
+               w_1stIn,
+               w_1stWon,
+               w_2ndWon,
+               w_SvGms,
+               w_bpSaved,
+               w_bpFaced,
+               l_ace,
+               l_df,
+               l_svpt,
+               l_1stIn,
+               l_1stWon,
+               l_2ndWon,
+               l_SvGms,
+               l_bpSaved,
+               l_bpFaced,
+               winner_rank,
+               winner_rank_points,
+               loser_rank,
+               loser_rank_points)
+                VALUES
+                (?,?,?,?,?,?,?,?,?,?,
+                 ?,?,?,?,?,?,?,?,?,?,
+                 ?,?,?,?,?,?,?,?,?,?,
+                 ?,?,?,?,?,?,?,?,?,?,
+                 ?,?,?,?,?,?,?,?,?)
+                '''
+               
+cursor.executemany(insert, statistics)
+connection.commit()
+
 
 # Pulls matches where higher ranked opponent won
 higher_rank_lost = sqldf('''SELECT winner_name, loser_name 
@@ -82,3 +214,62 @@ bagel_winners.to_csv('bagel_winners.txt', sep='|', index=False)
 top_losses_report.to_csv('losses_by_top_10.txt', sep='|', index=False)
 most_titles.to_clipboard('most_tourney_wins.txt', sep='|', index=False)
 finals_report.to_csv('finals_scores.txt', sep='|', index=False)
+
+
+
+winner_lost_bagel = '''SELECT winner_name, loser_name, score, tourney_name, round
+                              FROM match_stats WHERE score LIKE '%0-6%'
+                            '''
+
+
+
+
+# Prompt user to search for specific data from csv file
+try: 
+  choice = int(input('''
+                  View data were:
+                   1. Player outside top 10 beat a top 10 player
+                   2. Top 10 player won against player outside top 10
+                   3. Most hard court wins
+                   4. Most clay court wins
+                   5. Most grass court wins
+                   6. Matches where winner lost a bagel set (0-6)
+                   7. All matches were top 10 player lost
+                   8. Most tournament wins
+                   9. Finals for every tournament
+                     
+                   Choice:   
+'''))
+  
+
+
+except ValueError:
+   print("Please choose a number between 1 and 9")
+else:
+   if choice == 1:
+      select_query = higher_rank_lost
+   elif choice == 2:
+      select_query = lower_rank_lost
+   elif choice == 3:
+      select_query = most_hard_wins
+   elif choice == 4:
+      select_query = most_clay_wins
+   elif choice == 5:
+      select_query = most_grass_wins
+   elif choice == 6:
+      select_query = winner_lost_bagel
+   elif choice == 7:
+      select_query = top_10_losses
+   elif choice == 8:
+      select_query = most_tourney_wins
+   elif choice == 9:
+      select_query = finals_scores
+      
+rows = cursor.execute(select_query).fetchall()
+
+print("Results: ")
+for r in rows:
+   print(r)
+
+connection.commit()
+connection.close()
