@@ -298,7 +298,7 @@ while True:
       elif choice == 9:
          select_query = finals
       
-   rows = cursor.execute(select_query).
+   rows = cursor.execute(select_query).fetchall()
 
    print("Results: ")
    print(rows)
