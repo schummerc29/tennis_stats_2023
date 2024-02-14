@@ -134,7 +134,7 @@ insert = ''' INSERT INTO match_stats
 cursor.executemany(insert, statistics)
 connection.commit()
 
-
+# SQL queries for csv data
 # Pulls matches where higher ranked opponent won
 higher_rank_lost = sqldf('''SELECT winner_name, loser_name 
             FROM matches_2023 WHERE winner_rank > loser_rank''')
@@ -216,17 +216,51 @@ most_titles.to_clipboard('most_tourney_wins.txt', sep='|', index=False)
 finals_report.to_csv('finals_scores.txt', sep='|', index=False)
 
 
+# SQL Queries for database
+higher_rank_loss = '''SELECT winner_name, loser_name 
+            FROM match_stats WHERE winner_rank > loser_rank'''
 
+lower_rank_loss = '''SELECT winner_name, loser_name 
+            FROM match_stats WHERE winner_rank < loser_rank'''
+
+hard_wins = '''SELECT winner_name, count(*) AS Hard_Court_Wins 
+                       from match_stats WHERE surface = 'Hard' 
+                       GROUP BY winner_name ORDER BY Hard_Court_Wins DESC
+                       LIMIT 10'''
+
+clay_wins = '''SELECT winner_name, count(*) AS Clay_Court_Wins 
+                       from match_stats WHERE surface = 'Clay' 
+                       GROUP BY winner_name ORDER BY Clay_Court_Wins DESC'''
+
+grass_wins = '''SELECT winner_name, count(*) AS Grass_Court_Wins 
+                       from match_stats WHERE surface = 'Grass' 
+                       GROUP BY winner_name ORDER BY Grass_Court_Wins DESC'''
+
+finals = '''SELECT winner_name, loser_name, 
+                             tourney_name, score
+                             FROM match_stats WHERE round = 'F' 
+                            ORDER BY tourney_date'''
+       
 winner_lost_bagel = '''SELECT winner_name, loser_name, score, tourney_name, round
                               FROM match_stats WHERE score LIKE '%0-6%'
                             '''
 
+most_trophies = '''SELECT winner_name AS 'Champion', count(*) AS 'Tournaments Won' 
+                          FROM match_stats WHERE round = 'F'GROUP BY winner_name
+                          ORDER BY count(*) DESC
+                          '''
 
-
+top_losses = '''SELECT  
+                      winner_name AS 'Winner', FLOOR(winner_rank) AS 'Winner Rank', 
+                      loser_name AS 'Loser', FLOOR(loser_rank) AS 'Loser Rank',
+                      score AS 'Score', tourney_name AS 'Tournament', round AS 'Round'
+                             FROM match_stats WHERE loser_rank <= 11 AND winner_rank > 10
+                            '''
 
 # Prompt user to search for specific data from csv file
-try: 
-  choice = int(input('''
+while True:
+   try: 
+      choice = int(input('''
                   View data were:
                    1. Player outside top 10 beat a top 10 player
                    2. Top 10 player won against player outside top 10
@@ -238,38 +272,44 @@ try:
                    8. Most tournament wins
                    9. Finals for every tournament
                      
-                   Choice:   
-'''))
+                   Choice: '''))
   
 
 
-except ValueError:
-   print("Please choose a number between 1 and 9")
-else:
-   if choice == 1:
-      select_query = higher_rank_lost
-   elif choice == 2:
-      select_query = lower_rank_lost
-   elif choice == 3:
-      select_query = most_hard_wins
-   elif choice == 4:
-      select_query = most_clay_wins
-   elif choice == 5:
-      select_query = most_grass_wins
-   elif choice == 6:
-      select_query = winner_lost_bagel
-   elif choice == 7:
-      select_query = top_10_losses
-   elif choice == 8:
-      select_query = most_tourney_wins
-   elif choice == 9:
-      select_query = finals_scores
+   except ValueError:
+      print("Please choose a number between 1 and 9")
+   else:
+      if choice == 1:
+         select_query = higher_rank_loss
+      elif choice == 2:
+         select_query = lower_rank_loss
+      elif choice == 3:
+         select_query = hard_wins
+      elif choice == 4:
+         select_query = clay_wins
+      elif choice == 5:
+         select_query = grass_wins
+      elif choice == 6:
+         select_query = winner_lost_bagel
+      elif choice == 7:
+         select_query = top_losses
+      elif choice == 8:
+         select_query = most_trophies
+      elif choice == 9:
+         select_query = finals
       
-rows = cursor.execute(select_query).fetchall()
+   rows = cursor.execute(select_query).
 
-print("Results: ")
-for r in rows:
-   print(r)
+   print("Results: ")
+   print(rows)
+   #for r in rows:
+   #   print(r)
+
+   repeat = input("Do you want to see more data? (Y/N): ")
+   if repeat.upper() == 'Y':
+      continue
+   else:
+      break
 
 connection.commit()
 connection.close()
